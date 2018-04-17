@@ -1,0 +1,12 @@
+# Grace Kelly 17/04/18
+
+# Calculate the min max and average of each column in Iris data set
+
+import numpy
+
+data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+
+firstcol = data[:,0]
+meanfirstcol = numpy.mean(data[:,0])
+
+print("Average of the petal lenght is: ", meanfirstcol)
