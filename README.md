@@ -14,4 +14,6 @@ Average of the petal width is:  3.054
 Average of the sepal lenght is:  3.75866666667
 Average of the sepal width is:  1.19866666667
 
+In [40]: petallenght.min()
+Out[40]: 4.2999999999999998
 
