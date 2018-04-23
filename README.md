@@ -8,6 +8,9 @@ The dataset contains a set of 150 records under 5 attributes - Petal Length , Pe
 
 [NumPy](http://www.numpy.org/)
 
+Creating Histograms
+https://matplotlib.org/gallery/statistics/histogram_features.html
+
 Creating boxplots
 https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html
 
