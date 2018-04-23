@@ -50,3 +50,17 @@ In [47]: sepalwidth.max()
 Out[47]: 2.5
 
 # Using ipython caculate the standard deviation of petal lenght
+In [48]: petallenght.std()
+Out[48]: 0.82530129178514089
+
+# Using ipython caculate the standard deviation of petal width
+In [49]: petalwidth.std()
+Out[49]: 0.43214658007054352
+
+# Using ipython caculate the standard deviation of sepal lenght
+In [50]: sepallenght.std()
+Out[50]: 1.7585291834055212
+
+# Using ipython caculate the standard deviation of sepal width
+In [52]: sepalwidth.std()
+Out[52]: 0.76061261858817164
