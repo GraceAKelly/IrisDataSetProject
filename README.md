@@ -14,5 +14,5 @@ Creating Histograms
 Creating boxplots
 [Boxplots](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html)
 
-![Petal Lenght Histogram]{C:\Users\Neil\Desktop\Iris_Data_Set_Project\Petal_Lenght_Histogram.png}
+![Petal Lenght Histogram]{C:\Users\Neil\Desktop\Iris%20Data%20Set%20Project\Petal%20Lenght%20Histogram.png}
 
