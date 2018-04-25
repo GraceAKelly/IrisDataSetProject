@@ -1,0 +1,16 @@
+# Grace Kelly 25/04/18
+
+# Create scatterplots of Iris data
+
+import matplotlib.pyplot as plt
+
+import numpy
+
+
+data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+
+petallenght = data[:,0]
+petalwidth = data[:,1]
+
+plt.scatter(petallenght,petalwidth)
+plt.show()
