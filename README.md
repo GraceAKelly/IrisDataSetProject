@@ -8,11 +8,11 @@ The dataset contains a set of 150 records under 5 attributes - Petal Length , Pe
 
 [NumPy](http://www.numpy.org/)
 
+[IPython](https://en.wikipedia.org/wiki/IPython) is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers introspection, rich media, shell syntax, tab completion, and history.
+
 Creating Histograms
 [Histograms](https://matplotlib.org/gallery/statistics/histogram_features.html)
 
-Creating boxplots
-[Boxplots](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html)
 
 ![Petal Lenght Histogram](PetalLenghtHistogram.png)
 ![Petal Width Histogram](PetalWidthHistogram.png)
@@ -20,3 +20,5 @@ Creating boxplots
 ![Sepal Width Histogram](SepalWidthHistogram.png)
 
 
+Creating boxplots
+[Boxplots](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html)
