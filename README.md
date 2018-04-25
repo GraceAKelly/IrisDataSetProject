@@ -16,4 +16,7 @@ Creating boxplots
 
 ![Petal Lenght Histogram](PetalLenghtHistogram.png)
 ![Petal Width Histogram](PetalWidthHistogram.png)
+![Sepal Lenght Histogram](SepalLenghtHistogram.png)
+![Sepal Width Histogram](SepalWidthHistogram.png)
+
 
