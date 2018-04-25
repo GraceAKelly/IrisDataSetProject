@@ -24,6 +24,10 @@ Creating boxplots
 [Boxplots](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html)
 
 Scatter plots were created to display the correlation between petal lenght and petal width for the three different class types. [Reference source](https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset)
+
+
 ![Ratio of Petal Lenght:Petal Width per class](Scatterplot_Ratio_Petal_Lenght_vs_Petal_Width.png)
+
+![Ratio of Sepal Lenght:Sepal Width per class](Scatterplot_Sepal_Lenght_vs_Sepal_Width.png)
 
 
