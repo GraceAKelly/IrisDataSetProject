@@ -15,4 +15,5 @@ Creating boxplots
 [Boxplots](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html)
 
 ![Petal Lenght Histogram](PetalLenghtHistogram.png)
+![Petal Width Histogram](Petal Width Histogram.png)
 
