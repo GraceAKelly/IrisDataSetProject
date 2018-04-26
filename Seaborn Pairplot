@@ -1,4 +1,7 @@
-import matplotlib.pyplot as plt
+# Grace Kelly #26/04/2018
+# https://stackoverflow.com/questions/46383645/seaborn-and-pd-scatter-matrix-plot-color-issues
+
+/import matplotlib.pyplot as plt
 import seaborn as sns
 sns.set(style="ticks", color_codes=True)
 iris = sns.load_dataset("iris.csv")
