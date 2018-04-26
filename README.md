@@ -30,4 +30,7 @@ Scatter plots were created to display the correlation between petal lenght and p
 
 ![Ratio of Sepal Lenght:Sepal Width per class](Scatterplot_Sepal_Lenght_vs_Sepal_Width.png)
 
+[Seaborn](https://stackoverflow.com/questions/46383645/seaborn-and-pd-scatter-matrix-plot-color-issues)
+![Seaborn Pairplot](SeabornPairPlot.png)
+
 
