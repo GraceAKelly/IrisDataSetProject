@@ -1,0 +1,12 @@
+import matplotlib.pyplot as plt
+import seaborn as sns
+sns.set(style="ticks", color_codes=True)
+iris = sns.load_dataset("iris.csv")
+
+
+iris = sns.load_dataset("iris.csv")
+sns.pairplot(iris, hue="species")
+
+In [3]: run Iris.py
+
+In [4]: pl.show()
