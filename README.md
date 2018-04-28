@@ -11,14 +11,27 @@ Originally published at UCI Machine Learning Repository: Iris Data Set, is often
 ![Iris Flower](IrisFlower.jpg)
 
 For project analysis the data set was imported to visual studio code as a csv file from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
+-------------------------------------------------------------
+Python Libraries Used During Project
 
-The 5 columns within the file were attributed relevant column headings - Sepal Length, Sepal Width, Petal Length, Petal Width and Class as per [The Python Tutorial](https://docs.python.org/3.1/library/csv.html)(https://stackoverflow.com/questions/16503560/read-specific-columns-from-a-csv-file-with-csv-module)
+[Matplotlib](https://matplotlib.org/) is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
+
+[NumPy](https://en.wikipedia.org/wiki/NumPy)is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
 [Pandas](http://pandas.pydata.org/) is a ptython library for dealing with structured or tabular data.
 
+[Seaborn](https://seaborn.pydata.org/)Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+
+---------------------------------------------------------------
+Files In The Repository 
+
+
+Pandas
+The 5 columns within the file were attributed relevant column headings - Sepal Length, Sepal Width, Petal Length, Petal Width and Class using 
 ![Headings Using Pandas](Headingsusingpandas.JPG)
 
 The dataset contains a set of 150 records under 5 attributes 
-[NumPy](https://en.wikipedia.org/wiki/NumPy)is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+
 
 [IPython](https://en.wikipedia.org/wiki/IPython) is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers introspection, rich media, shell syntax, tab completion, and history.
 
