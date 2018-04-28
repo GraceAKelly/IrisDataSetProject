@@ -16,11 +16,11 @@ Python Libraries Used During Project
 
 [Matplotlib](https://matplotlib.org/) is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
 
-[NumPy](https://en.wikipedia.org/wiki/NumPy)is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
+[NumPy](https://en.wikipedia.org/wiki/NumPy) is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
 [Pandas](http://pandas.pydata.org/) is a ptython library for dealing with structured or tabular data.
 
-[Seaborn](https://seaborn.pydata.org/)Seaborn is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
+[Seaborn](https://seaborn.pydata.org/) is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
 ---------------------------------------------------------------
 Files In The Repository 
