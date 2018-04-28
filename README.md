@@ -31,6 +31,9 @@ For project analysis the data set was imported to visual studio code as a csv fi
 ---------------------------------------------------------------
 **Files In The Repository**
 
+*Irisdataset.py*
+Uses NumPy to calculate the mean, minimum, maximum and standard deviation of the Sepal Lenght, Sepal Width, Petal Lenght and Petal Width
+
 *Project.py*
 Uses pandas to attribute the 5 columns within the iris.csv file with relevant column headings - Sepal Length, Sepal Width, Petal Length, Petal Width and Class
 
