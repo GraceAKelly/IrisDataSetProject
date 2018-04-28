@@ -13,7 +13,7 @@ Originally published at UCI Machine Learning Repository: Iris Data Set, is often
 For project analysis the data set was imported to visual studio code as a csv file from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
 
 -------------------------------------------------------------
-Python Libraries Used During Project
+**Python Libraries Used During Project**
 
 [Matplotlib](https://matplotlib.org/) is a Python 2D plotting library which produces publication quality figures in a variety of hardcopy formats and interactive environments across platforms
 
@@ -24,7 +24,7 @@ Python Libraries Used During Project
 [Seaborn](https://seaborn.pydata.org/) is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
 ---------------------------------------------------------------
-Files In The Repository 
+**Files In The Repository**
 
 
 Pandas
