@@ -13,3 +13,8 @@ sns.pairplot(iris, hue="species") #create a pairplot
 In [3]: run Iris.py # run the script in ipython
 
 In [4]: pl.show() # show the graph visually
+
+  
+  
+  # Other sources reviewed during research for different approaches
+  # https://github.com/mwaskom/seaborn-data
