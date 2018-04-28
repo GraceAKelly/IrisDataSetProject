@@ -6,7 +6,6 @@ import matplotlib.pyplot as plt
 
 import numpy
 
-
 data = numpy.genfromtxt('data/iris.csv', delimiter=',')
 
 petallenght = data[:,0]
