@@ -4,7 +4,9 @@ Background
 ----------------------------------------------------------
 ![Ronald Fisher](R._A._Fischer.jpg)
 
-The dataset contains a set of 150 records under 5 attributes - Petal Length , Petal Width , Sepal Length , Sepal width and Class.
+Originally published at UCI Machine Learning Repository: Iris Data Set, this small dataset from 1936 is often used for testing out machine learning algorithms and visualizations (for example, Scatter Plot). Each row of the table represents an iris flower, including its species and dimensions of its botanical parts, sepal and petal, in centimeters.(https://gist.github.com/curran/a08a1080b88344b0c8a7)
+
+The dataset contains a set of 150 records under 5 attributes - Sepal Length, Sepal Width, Petal Length, Petal Width and Class.
 
 [NumPy](https://en.wikipedia.org/wiki/NumPy)is a library for the Python programming language, adding support for large, multi-dimensional arrays and matrices, along with a large collection of high-level mathematical functions to operate on these arrays.
 
