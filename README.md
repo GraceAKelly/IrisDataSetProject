@@ -51,6 +51,8 @@ A [Histogram]((https://matplotlib.org/gallery/statistics/histogram_features.html
 
 ![Boxplot](Boxplot.png)
 
+*Scatterplot.py*
+
 Scatter plots were created to display the correlation between petal lenght and petal width for the three different class types. [Reference source](https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset)
 
 
