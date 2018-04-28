@@ -4,9 +4,11 @@ Background
 ----------------------------------------------------------
 The Iris flower data set or Fisher's Iris data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper The use of multiple measurements in taxonomic problems as an example of linear discriminant analysis.(https://en.wikipedia.org/wiki/Iris_flower_data_set)
 
-![Ronald Fisher](R._A._Fischer.jpg)  ![Iris Flower](IrisFlower.jpg)
+![Ronald Fisher](R._A._Fischer.jpg)  
 
 Originally published at UCI Machine Learning Repository: Iris Data Set, is often used for testing out machine learning algorithms and visualizations (for example, Scatter Plot). Each row of the table represents an iris flower, including its species and dimensions of its botanical parts, sepal and petal, in centimeters.(https://gist.github.com/curran/a08a1080b88344b0c8a7)
+
+![Iris Flower](IrisFlower.jpg)
 
 For project analysis the data set was imported to visual studio code as a csv file from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
 
