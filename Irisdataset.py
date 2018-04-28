@@ -22,7 +22,7 @@ petalwidth = data[:,3] # define petal width as data in the fourth column
 meanpetalwidth = numpy.mean(data[:,3])# use numpy library to calculate mean of fourth column
 print("Average of the petal width is: ", meanpetalwidth) # output mean of fourth column
 
-In [24]: run Irisdataset.py
+In [24]: run Irisdataset.py #test data
 Average of the sepal lenght is:  5.84333333333
 Average of the sepal width is:  3.054
 Average of the petal lenght is:  3.75866666667
