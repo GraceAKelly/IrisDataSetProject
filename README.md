@@ -33,7 +33,7 @@ For project analysis the data set was imported to visual studio code as a csv fi
 Project.py
 Uses pandas to attribute the 5 columns within the iris.csv file with relevant column headings - Sepal Length, Sepal Width, Petal Length, Petal Width and Class
 
-(Headingsusingpandas.JPG)
+![Headings Using Pandas](Headingsusingpandas.JPG)
 
 Dataset basic information was generated using pandas and ipython outputting:
 150 rows
@@ -41,7 +41,7 @@ Dataset basic information was generated using pandas and ipython outputting:
 
 A [Histogram]((https://matplotlib.org/gallery/statistics/histogram_features.html)) matrix was created to show visual representation of the distribution of data for Sepal Lenght, Sepal Width, Petal Lenght and Petal Width
 
-
+![Histogram Matrix](Histogrammatrix.png)
 
 Creating boxplots
 [Boxplots](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html)
