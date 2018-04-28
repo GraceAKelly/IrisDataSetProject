@@ -23,6 +23,7 @@ For project analysis the data set was imported to visual studio code as a csv fi
 
 [Seaborn](https://seaborn.pydata.org/) is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
+--------------------------------------------------------------
 **Command Shell**
 
 [IPython](https://en.wikipedia.org/wiki/IPython) is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers introspection, rich media, shell syntax, tab completion, and history.
@@ -30,7 +31,7 @@ For project analysis the data set was imported to visual studio code as a csv fi
 ---------------------------------------------------------------
 **Files In The Repository**
 
-Project.py
+*Project.py*
 Uses pandas to attribute the 5 columns within the iris.csv file with relevant column headings - Sepal Length, Sepal Width, Petal Length, Petal Width and Class
 
 ![Headings Using Pandas](Headingsusingpandas.JPG)
@@ -41,10 +42,10 @@ Dataset basic information was generated using pandas and ipython outputting:
 
 A [Histogram]((https://matplotlib.org/gallery/statistics/histogram_features.html)) matrix was created to show visual representation of the distribution of data for Sepal Lenght, Sepal Width, Petal Lenght and Petal Width
 
-![Histogram Matrix](Histogrammatrix.png)
+![Histogram Matrix](HistogramMatrix.png)
 
-Creating boxplots
-[Boxplots](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html)
+[Boxplots](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html) was generated to graphically represent the data through their quartiles. The horizontal line represents the median of the data set. The whiskers of the boxplot extends to the min and max of the data outside the upper and lower quartiles. Outliers are identified in Sepal Width. There is visibility of the skewness of the data. 
+
 ![Boxplot](Boxplot.png)
 
 Scatter plots were created to display the correlation between petal lenght and petal width for the three different class types. [Reference source](https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset)
