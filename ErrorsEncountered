@@ -3,3 +3,41 @@
 # Petal lenght/width were incorrectly mixed up with values for Sepal lenght/width
 # Therefore all calculations and charts were incorrect and ha to be run again
 # Below is original incorrect code as a record of attempt
+
+import numpy # Import numerical python library
+
+data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+
+petallenght = data[:,0]
+meanpetallenght = numpy.mean(data[:,0])
+print("Average of the petal lenght is: ", meanpetallenght)
+
+petalwidth = data[:,1]
+meanpetalwidth = numpy.mean(data[:,1])
+print("Average of the petal width is: ", meanpetalwidth)
+
+sepallenght = data[:,2]
+meansepallenght = numpy.mean(data[:,2])
+print("Average of the sepal lenght is: ", meansepallenght)
+
+sepalwidth = data[:,3]
+meansepalwidth = numpy.mean(data[:,3])
+print("Average of the sepal width is: ", meansepalwidth)
+
+# Using ipython caculate the min and max for petal lenght
+In [40]: petallenght.min()
+Out[40]: 4.2999999999999998
+
+In [41]: petallenght.max()
+Out[41]: 7.9000000000000004
+
+# Using ipython caculate the min and max for petal width
+In [42]: petalwidth.min()
+Out[42]: 2.0
+
+In [43]: petalwidth.max()
+Out[43]: 4.4000000000000004
+
+# Using ipython caculate the min and max for sepal lenght
+In [44]: sepallenght.min()
+Out[44]: 1.0
