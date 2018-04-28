@@ -23,21 +23,22 @@ For project analysis the data set was imported to visual studio code as a csv fi
 
 [Seaborn](https://seaborn.pydata.org/) is a Python visualization library based on matplotlib. It provides a high-level interface for drawing attractive statistical graphics.
 
----------------------------------------------------------------
-**Files In The Repository**
-
-
-Pandas
-The 5 columns within the file were attributed relevant column headings - Sepal Length, Sepal Width, Petal Length, Petal Width and Class using 
-![Headings Using Pandas](Headingsusingpandas.JPG)
-
-The dataset contains a set of 150 records under 5 attributes 
-
+**Command Shell**
 
 [IPython](https://en.wikipedia.org/wiki/IPython) is a command shell for interactive computing in multiple programming languages, originally developed for the Python programming language, that offers introspection, rich media, shell syntax, tab completion, and history.
 
-Creating Histograms
-[Histograms](https://matplotlib.org/gallery/statistics/histogram_features.html)
+---------------------------------------------------------------
+**Files In The Repository**
+
+Project.py
+Uses pandas to attribute the 5 columns within the iris.csv file with relevant column headings - Sepal Length, Sepal Width, Petal Length, Petal Width and Class
+(Headingsusingpandas.JPG)
+Dataset basic information was generated using pandas and ipython outputting:
+150 rows
+5 columns
+
+A [Histogram]((https://matplotlib.org/gallery/statistics/histogram_features.html)) matrix was created to show visual representation of the distribution of data for Sepal Lenght, Sepal Width, Petal Lenght and Petal Width
+
 
 
 Creating boxplots
