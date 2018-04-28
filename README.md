@@ -69,4 +69,8 @@ Whereas in relation to sepal lenght:width ratio the setosa is more tightly align
 [Seaborn](https://stackoverflow.com/questions/46383645/seaborn-and-pd-scatter-matrix-plot-color-issues) was used to create a pairplot. This is a matrix of graphs to cross reference the class of flower per variables. ie. for the species setosa, versicolor and verginica there is a total of 12 graphs cross referencing the sepal lenght, sepal width, petal lenght and petal width to identify effeciently if there is any correlation or regression within the data
 ![Seaborn Pairplot](SeabornPairPlot.png)
 
+----------------------------------------------------------
+**Licience**
+
+Apache License 2.0 A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code
 
