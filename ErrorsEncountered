@@ -41,3 +41,22 @@ Out[43]: 4.4000000000000004
 # Using ipython caculate the min and max for sepal lenght
 In [44]: sepallenght.min()
 Out[44]: 1.0
+
+**Scatterplots**
+
+# Scatterplot error in code
+# Grace Kelly 25/04/18
+
+# Create scatterplots of Iris data
+
+import matplotlib.pyplot as plt
+
+import numpy
+
+data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+
+petallenght = data[:,0]
+petalwidth = data[:,1]
+
+plt.scatter(petallenght,petalwidth)
+plt.show()
