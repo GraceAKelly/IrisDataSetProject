@@ -70,6 +70,50 @@ Whereas in relation to sepal lenght:width ratio the setosa is more tightly align
 ![Seaborn Pairplot](SeabornPairPlot.png)
 
 ----------------------------------------------------------
+**References**
+
+Various methods for analysis and scripting werew considered during the project. Final decision on alaysis format was based on applicability to the desired output. As the analysis was not giving the desired output using NumPy and matplotlib solely, knowledge of Pandas and seaborn was enhanced to generate efficient and interesting visual representations. 
+See below information sources utilised throught the project duration
+
+General Analysis
+https://stackoverflow.com/questions/7661540/print-the-first-two-rows-of-a-csv-file-to-a-standard-output
+https://stackoverflow.com/questions/16503560/read-specific-columns-from-a-csv-file-with-csv-module
+https://docs.python.org/3.1/library/csv.html
+https://docs.python.org/2/library/csv.html
+https://stackoverflow.com/questions/2121839/rstrip-not-removing-newline-char-what-am-i-doing-wrong
+https://www.kaggle.com/mathewnik90/machinelearning-helloworld-with-iris-full-analysis/notebook
+https://davetang.org/muse/2012/01/26/using-r-to-obtain-basic-statistics-on-your-dataset/
+http://www.pythonforbeginners.com/dictionary/python-split
+https://www.w3resource.com/python-exercises/re/python-re-exercise-47.php
+https://stackoverflow.com/questions/14494747/add-images-to-readme-md-on-github
+https://stackoverflow.com/questions/10189356/how-to-add-screenshot-to-readmes-in-github-repository
+McKinney, Wes, *Python for Data Analysis*, 2nd Edition O'Reilly,2017.
+
+Scatterplots
+https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset
+https://github.com/venky14/Machine-Learning-with-Iris-Dataset/blob/master/Machine%20Learning%20with%20Iris%20Dataset.ipynb
+https://stackoverflow.com/questions/7941207/is-there-a-function-to-make-scatterplot-matrices-in-matplotlib
+
+
+Boxplots
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.boxplot.html
+http://seaborn.pydata.org/examples/grouped_boxplot.html
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+https://matplotlib.org/gallery/pyplots/boxplot_demo_pyplot.html#sphx-glr-gallery-pyplots-boxplot-demo-pyplot-py
+https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html
+
+pandas
+https://pandas.pydata.org/pandas-docs/stable/generated/pandas.DataFrame.html
+https://chrisalbon.com/python/data_wrangling/pandas_dataframe_importing_csv/
+https://gist.github.com/curran/a08a1080b88344b0c8a7
+
+Seaborn
+https://github.com/mwaskom/seaborn-data
+https://stackoverflow.com/questions/26597116/seaborn-plots-not-showing-up
+https://stackoverflow.com/questions/46383645/seaborn-and-pd-scatter-matrix-plot-color-issues
+https://seaborn.pydata.org/generated/seaborn.pairplot.html
+
+----------------------------------------------------------
 **Licience**
 
 Apache License 2.0 A permissive license whose main conditions require preservation of copyright and license notices. Contributors provide an express grant of patent rights. Licensed works, modifications, and larger works may be distributed under different terms and without source code
