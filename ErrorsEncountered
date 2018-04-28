@@ -1,0 +1,5 @@
+# These are coding errors encountered during project
+
+# Petal lenght/width were incorrectly mixed up with values for Sepal lenght/width
+# Therefore all calculations and charts were incorrect and ha to be run again
+# Below is original incorrect code as a record of attempt
