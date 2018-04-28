@@ -36,8 +36,15 @@ Class           150 non-null object
 dtypes: float64(4), object(1)
 memory usage: 5.9+ KB
 
+#Create Histogram
 In [17]: iris.hist(edgecolor='black', linewidth=1.2)
     ...: fig = plt.gcf()
     ...: fig.set_size_inches(12,6)
     ...: plt.show()
 
+# Create Boxplots 
+In [22]: iris.boxplot()
+Out[22]: <matplotlib.axes._subplots.AxesSubplot at 0x2610c8d4e10>
+
+In [23]: pl.show()
+QWindowsWindow::setGeometry: Unable to set geometry 1500xQWindowsW
