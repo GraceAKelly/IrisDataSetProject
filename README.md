@@ -56,7 +56,7 @@ A [Histogram]((https://matplotlib.org/gallery/statistics/histogram_features.html
 
 Scatter plots were created to display the correlation between petal lenght and petal width and for sepal lenght and sepal width for the three different class types. The variance within the species is evident from the colour representations. [Reference source](https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset)
 
-For the setosa specties, the ratio of petal lenght:petal width is greater than the other 2 species
+For the setosa species, the ratio of petal lenght:petal width is greater than the other 2 species
 
 ![Ratio of Petal Lenght:Petal Width per class](Scatterplot_Ratio_Petal_Lenght_vs_Petal_Width.png)
 
