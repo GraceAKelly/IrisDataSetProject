@@ -44,19 +44,23 @@ Basic statisical information was generated about the data set using pandas and i
 150 rows
 5 columns
 
-A [Histogram]((https://matplotlib.org/gallery/statistics/histogram_features.html)) matrix was created to show visual representation of the distribution of data for Sepal Lenght, Sepal Width, Petal Lenght and Petal Width
+A [Histogram]((https://matplotlib.org/gallery/statistics/histogram_features.html)) matrix was created to show visual representation of the distribution of data for Sepal Lenght, Sepal Width, Petal Lenght and Petal Width. This is an efficient graphical display to show the spread of data across the 4 attributes. 
 
 ![Histogram Matrix](HistogramMatrix.png)
 
-[Boxplots](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html) was generated to graphically represent the data through their quartiles. The horizontal line represents the median of the data set. The whiskers of the boxplot extends to the min and max of the data outside the upper and lower quartiles. Outliers are identified in Sepal Width. There is visibility of the skewness of the data. 
+[Boxplots](https://matplotlib.org/api/_as_gen/matplotlib.pyplot.boxplot.html) were generated to graphically represent the data through their quartiles. The horizontal line represents the median of the data set. The whiskers of the boxplot extends to the min and max of the data outside the upper and lower quartiles. Outliers are identified in Sepal Width. There is visibility of the skewness of the data. 
 
 ![Boxplot](Boxplot.png)
 
 *Scatterplot.py*
 
-Scatter plots were created to display the correlation between petal lenght and petal width for the three different class types. [Reference source](https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset)
+Scatter plots were created to display the correlation between petal lenght and petal width and for sepal lenght and sepal width for the three different class types. The variance within the species is evident from the colour representations. [Reference source](https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset)
+
+For the setosa specties, the ratio of petal lenght:petal width is greater than the other 2 species
 
 ![Ratio of Petal Lenght:Petal Width per class](Scatterplot_Ratio_Petal_Lenght_vs_Petal_Width.png)
+
+Whereas in relation to sepal lenght:width ratio the setosa is more tightly aligned than the versicolor and verginica species
 
 ![Ratio of Sepal Lenght:Sepal Width per class](Scatterplot_Sepal_Lenght_vs_Sepal_Width.png)
 
