@@ -32,10 +32,11 @@ For project analysis the data set was imported to visual studio code as a csv fi
 **Files In The Repository**
 
 *Irisdataset.py*
-Uses NumPy to calculate the mean, minimum, maximum and standard deviation of the Sepal Lenght, Sepal Width, Petal Lenght and Petal Width
+Uses NumPy and ipython to calculate the mean, minimum, maximum and standard deviation of the Sepal Lenght, Sepal Width, Petal Lenght and Petal Width
 
 *Project.py*
-Uses pandas to attribute the 5 columns within the iris.csv file with relevant column headings - Sepal Length, Sepal Width, Petal Length, Petal Width and Class
+Uses pandas to attribute the 5 columns within the iris.csv file with relevant column headings -
+Sepal Length, Sepal Width, Petal Length, Petal Width and Class
 
 ![Headings Using Pandas](Headingsusingpandas.JPG)
 
@@ -55,12 +56,13 @@ A [Histogram]((https://matplotlib.org/gallery/statistics/histogram_features.html
 
 Scatter plots were created to display the correlation between petal lenght and petal width for the three different class types. [Reference source](https://stackoverflow.com/questions/45862223/use-different-colors-in-scatterplot-for-iris-dataset)
 
-
 ![Ratio of Petal Lenght:Petal Width per class](Scatterplot_Ratio_Petal_Lenght_vs_Petal_Width.png)
 
 ![Ratio of Sepal Lenght:Sepal Width per class](Scatterplot_Sepal_Lenght_vs_Sepal_Width.png)
 
-[Seaborn](https://stackoverflow.com/questions/46383645/seaborn-and-pd-scatter-matrix-plot-color-issues)
+*SeabornPairplot.py*
+
+[Seaborn](https://stackoverflow.com/questions/46383645/seaborn-and-pd-scatter-matrix-plot-color-issues) was used to create a pairplot. This is a matrix of graphs to cross reference the class of flower per variables. ie. for the species setosa, versicolor and verginica there is a total of 12 graphs cross referencing the sepal lenght, sepal width, petal lenght and petal width to identify effeciently if there is any correlation or regression within the data
 ![Seaborn Pairplot](SeabornPairPlot.png)
 
 
