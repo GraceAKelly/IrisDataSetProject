@@ -8,7 +8,7 @@ The Iris flower data set or Fisher's Iris data set is a multivariate data set in
 
 Originally published at UCI Machine Learning Repository: Iris Data Set, is often used for testing out machine learning algorithms and visualizations (for example, Scatter Plot). Each row of the table represents an iris flower, including its species and dimensions of its botanical parts, sepal and petal, in centimeters.(https://gist.github.com/curran/a08a1080b88344b0c8a7)
 
-![Iris Flower](IrisFlower.jpg)
+![Iris Flower](https://en.wikipedia.org/wiki/Iris_(plant)#/media/File:Iris_germanica_(Purple_bearded_Iris),_Wakehurst_Place,_UK_-_Diliff.jpg)
 
 For project analysis the data set was imported to visual studio code as a csv file from [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/iris)
 
