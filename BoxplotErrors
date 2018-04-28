@@ -1,0 +1,98 @@
+import matplotlib.pyplot as pl
+import numpy as np
+
+data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+
+petallenght = data[:,0]
+meanpetallenght = numpy.mean(data[:,0])
+print("Average of the petal lenght is: ", meanpetallenght)
+
+petalwidth = data[:,1]
+meanpetalwidth = numpy.mean(data[:,1])
+print("Average of the petal width is: ", meanpetalwidth)
+
+sepallenght = data[:,2]
+meansepallenght = numpy.mean(data[:,2])
+print("Average of the sepal lenght is: ", meansepallenght)
+
+sepalwidth = data[:,3]
+meansepalwidth = numpy.mean(data[:,3])
+print("Average of the sepal width is: ", meansepalwidth)
+import matplotlib.pyplot as pl
+import numpy as np
+
+Microsoft Windows [Version 10.0.16299.371]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Neil\Desktop\python.beg>python Boxplots.py
+Traceback (most recent call last):
+  File "Boxplots.py", line 7, in <module>
+    data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+NameError: name 'numpy' is not defined
+
+C:\Users\Neil\Desktop\python.beg>python Boxplots.py
+Traceback (most recent call last):
+  File "Boxplots.py", line 7, in <module>
+    data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+NameError: name 'numpy' is not defined
+
+C:\Users\Neil\Desktop\python.beg>python Boxplots.py
+Traceback (most recent call last):
+  File "Boxplots.py", line 7, in <module>
+    iris = numpy.genfromtxt('data/iris.csv', delimiter=',')
+NameError: name 'numpy' is not defined
+
+C:\Users\Neil\Desktop\python.beg>python Boxplots.py
+Traceback (most recent call last):
+  File "Boxplots.py", line 5, in <module>
+    plt.boxplot(Data/iris.csv)
+NameError: name 'Data' is not defined
+
+C:\Users\Neil\Desktop\python.beg>python Boxplots.py
+Traceback (most recent call last):
+  File "Boxplots.py", line 4, in <module>
+    data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+NameError: name 'numpy' is not defined
+
+C:\Users\Neil\Desktop\python.beg>ipython
+Python 3.6.3 |Anaconda, Inc.| (default, Oct 15 2017, 03:27:45) [MSC v.1900 64 bit (AMD64)]
+Type 'copyright', 'credits' or 'license' for more information
+IPython 6.1.0 -- An enhanced Interactive Python. Type '?' for help.
+
+In [1]: plt.boxplot(petallenght)
+---------------------------------------------------
+NameError         Traceback (most recent call last)
+<ipython-input-1-2e5123885bd3> in <module>()
+----> 1 plt.boxplot(petallenght)
+
+NameError: name 'plt' is not defined
+
+In [2]: plt.show()
+---------------------------------------------------
+NameError         Traceback (most recent call last)
+<ipython-input-2-c4e69632d98a> in <module>()
+----> 1 plt.show()
+
+NameError: name 'plt' is not defined
+
+In [3]: run Boxplots.py
+---------------------------------------------------
+NameError         Traceback (most recent call last)
+~\Desktop\python.beg\Boxplots.py in <module>()
+      2 import numpy as np
+      3
+----> 4 data = numpy.genfromtxt('data/iris.csv', delimiter=',')
+      5
+      6 petallenght = data[:,0]
+
+NameError: name 'numpy' is not defined
+
+In [4]: pl.boxplot(petallenght)
+---------------------------------------------------
+NameError         Traceback (most recent call last)
+<ipython-input-4-b08fe3db3511> in <module>()
+----> 1 pl.boxplot(petallenght)
+
+NameError: name 'petallenght' is not defined
+
+In [5]: pl.show()
