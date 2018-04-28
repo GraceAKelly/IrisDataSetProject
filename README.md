@@ -14,6 +14,7 @@ For project analysis the data set was imported to visual studio code as a csv fi
 
 The 5 columns within the file were attributed relevant column headings - Sepal Length, Sepal Width, Petal Length, Petal Width and Class as per [The Python Tutorial](https://docs.python.org/3.1/library/csv.html)(https://stackoverflow.com/questions/16503560/read-specific-columns-from-a-csv-file-with-csv-module)
 [Pandas](http://pandas.pydata.org/) is a ptython library for dealing with structured or tabular data.
+
 ![Headings Using Pandas](Headingsusingpandas.jpg)
 
 The dataset contains a set of 150 records under 5 attributes 
@@ -23,12 +24,6 @@ The dataset contains a set of 150 records under 5 attributes
 
 Creating Histograms
 [Histograms](https://matplotlib.org/gallery/statistics/histogram_features.html)
-
-
-![Petal Lenght Histogram](PetalLenghtHistogram.png)
-![Petal Width Histogram](PetalWidthHistogram.png)
-![Sepal Lenght Histogram](SepalLenghtHistogram.png)
-![Sepal Width Histogram](SepalWidthHistogram.png)
 
 
 Creating boxplots
