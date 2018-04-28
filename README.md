@@ -40,7 +40,7 @@ Sepal Length, Sepal Width, Petal Length, Petal Width and Class
 
 ![Headings Using Pandas](Headingsusingpandas.JPG)
 
-Dataset basic information was generated using pandas and ipython outputting:
+Basic statisical information was generated about the data set using pandas and ipython outputting:
 150 rows
 5 columns
 
